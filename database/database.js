@@ -2,7 +2,7 @@
 const mongoose = require("mongoose");
 
 // mongodb connection url
-const connectionString = `mongodb+srv://sahilwadhwaa:qazplm@007@bookings.v7bwv5b.mongodb.net/?retryWrites=true&w=majority`;
+const connectionString = `mongodb+srv://sahilwadhwaa:qazplm007@bookings.v7bwv5b.mongodb.net/?retryWrites=true&w=majority`;
 
 // function to connect the mongodb database
 const connectDb = (server) => {
